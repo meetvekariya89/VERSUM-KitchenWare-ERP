@@ -1,0 +1,22 @@
+# Build files
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Local development settings
+appsettings.Development.json
+
+# Environment and secrets
+.env
+.env.*
+secrets.json
+
+# Temporary files
+*.log
+*.tmp
+appsettings.json
+Properties/launchSettings.json
